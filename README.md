@@ -1,2 +1,0 @@
-# CalculatorApp
-Developed by Kiara
